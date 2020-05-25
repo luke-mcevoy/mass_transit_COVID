@@ -13,5 +13,8 @@ I had trouble dealing with handling and merging 2D arrays. Furthermore, in its c
 # Future Improvements
 I look to update the algorithm using shortest path/graph theory algorithms such as Floyd-Warshall algorithm or Dijkstra's algorithm. Moreover, when I began the project, I knew graph theory and dynamic programming would be a better route to a solution but am excited to work towards their implantation after the HealthHack.
 
+# Project Submission
+Stevens Institute of Technology HealthHack 2. May 24, 2020.
+
 # Built with
 Python
