@@ -7,6 +7,9 @@ Carriers are burning through between $10 and $12 billion a month due to travel h
 # Soltuion
 Using input of rows, columns, and passengers, the algorithm can determine the optimal passenger placement.
 
+# Presentation Link
+https://youtu.be/Ki1PLm98WJE
+
 # Troubles / Bugs
 I had trouble dealing with handling and merging 2D arrays. Furthermore, in its current state, the algorithm has flaws with dynamically adjusting to extra rows.
 
