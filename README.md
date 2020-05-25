@@ -7,6 +7,9 @@ Carriers are burning through between $10 and $12 billion a month due to travel h
 # Soltuion
 Using input of rows, columns, and passengers, the algorithm can determine the optimal passenger placement.
 
+# How to use
+run main.py with gateway.py and algorithms.py in the same directory.
+
 # Presentation Link
 https://youtu.be/Ki1PLm98WJE
 
