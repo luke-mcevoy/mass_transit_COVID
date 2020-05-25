@@ -13,6 +13,7 @@ def everyone_seated(seats, seated, passengers):
 
 # First pattern design.
 def A_dynamic(rows, cols, passengers, seats):
+	# Compute how many rows will remain after everyone is seated
 	extra_rows = (rows - passengers)
 	seated = 0
 	# tmp represents the amount to incrementation due to extra rows
@@ -32,6 +33,7 @@ def A_dynamic(rows, cols, passengers, seats):
 
 # Second pattern design.
 def B_dynamic(rows, cols, passengers, seats):
+	# Compute how many rows will remain after everyone is seated
 	extra_rows = (rows - passengers)
 	seated = 0
 	# tmp represents the amount to incrementation due to extra rows
@@ -50,6 +52,7 @@ def B_dynamic(rows, cols, passengers, seats):
 				break
 
 def C_dynamic(rows, cols, passengers, seats):
+	# Compute how many rows will remain after everyone is seated
 	extra_rows = rows - (passengers * (2/3)) // 1
 	seated = 0
 	tmp = 0
@@ -79,6 +82,7 @@ def C_dynamic(rows, cols, passengers, seats):
 					break
 
 def D_dynamic(rows, cols, passengers, seats):
+	# Compute how many rows will remain after everyone is seated
 	extra_rows = rows - math.ceil(passengers//2)
 	seated = 0
 	# tmp represents the amount to incrementation due to extra rows
