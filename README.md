@@ -4,7 +4,7 @@ Mass Transit algorithm that optimized distance between passengers using seat ass
 # Problem
 Carriers are burning through between $10 and $12 billion a month due to travel halt. National average of roughly one passenger for every 20 seats on Airlines. There is no lack of legislation in regards to a mass transit passenger placement safety protocol. Currently, passenger safety is up to discretion of the flight attendant and digital selection of seats when purchasing a ticket. The CDC, WHO, TSA, and Airlines for America can fill this gap with by using an algorithm such as this.
 
-# Soltuion
+# Solution
 Using input of rows, columns, and passengers, the algorithm can determine the optimal passenger placement.
 
 # How to use
